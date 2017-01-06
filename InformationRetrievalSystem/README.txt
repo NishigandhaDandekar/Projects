@@ -1,7 +1,6 @@
-Aim: To retrive the top five relevant documents based on the entered query
+﻿Aim: To retrive the top five relevant documents based on the entered query
 
 Description: This project aims at retriving the top five documents based on the query entered by the user. For doing this, first the documents of the repository are tokenized and the following files are generated:
-
 1. dictionary.​csv
 2. postings.​csv 
 3. docsTable.​csv 
