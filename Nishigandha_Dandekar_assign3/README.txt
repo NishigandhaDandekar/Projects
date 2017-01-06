@@ -9,7 +9,6 @@ Grace Period Remaining: N.A.
 Author: Nishigandha Girish Dandekar
 e-mail: ndandek1@binghamton.edu
 
-
 PURPOSE:
 The purpose of this project is to implement the Observer Pattern.
 This project uses the Observer Pattern to update the value of the backup 

@@ -9,7 +9,6 @@ Grace Period Remaining: N.A.
 Author: Nishigandha Girish Dandekar
 e-mail: ndandek1@binghamton.edu
 
-
 PURPOSE:
 The purpose of this project is to crate a serialization library for the purpose of 
 serialization and deserialization of objects.This project also implments the stategy pattern 

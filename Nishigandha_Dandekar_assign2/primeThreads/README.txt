@@ -9,7 +9,6 @@ Grace Period Remaining: N.A.
 Author: Nishigandha Girish Dandekar
 e-mail: ndandek1@binghamton.edu
 
-
 PURPOSE:
 The purpose of this project is to implement the multithreading and the 
 synchronization of these multiple threads in java. 
