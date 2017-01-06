@@ -1,5 +1,5 @@
 /**
- * This class inserts nodes into the binary search tree.
+* This class inserts nodes into the binary search tree.
  * It is has a method for doing inorder traversal through the tree.
  * It also calculates the sum of all the nodes in the BST
  */

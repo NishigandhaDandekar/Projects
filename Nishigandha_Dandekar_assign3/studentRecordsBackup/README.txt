@@ -1,5 +1,4 @@
 Assuming you are in the directory containing this README:
-
 ## To clean:
 ant -buildfile src/build.xml clean
 

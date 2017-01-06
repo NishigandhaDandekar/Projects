@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 
 /**
- * Returns a line that is read from the input file 
+* Returns a line that is read from the input file 
  * @author Nishigandha 
  */
 class FileProcessor 
