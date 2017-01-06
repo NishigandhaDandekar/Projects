@@ -10,7 +10,7 @@ import genericCheckpointing.util.MyAllTypesSecond;
 
 /**
  *
- * @author Girish
+ * @author Nishigandha
  */
 public interface StoreI extends StoreRestoreI {
  

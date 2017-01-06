@@ -1,7 +1,7 @@
 package primeThreads.util;
 /**
  * This class is used to find if the number is prime or not 
- * @author Girish
+ * @author Nishigandha
  */
 public class IsPrime
 {

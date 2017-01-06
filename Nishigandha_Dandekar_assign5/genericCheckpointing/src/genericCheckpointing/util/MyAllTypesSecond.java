@@ -7,7 +7,7 @@ package genericCheckpointing.util;
 
 /**
  *
- * @author Girish
+ * @author Nishigandha
  */
 public class MyAllTypesSecond extends SerializableObject {
     private double myDoubleT;
